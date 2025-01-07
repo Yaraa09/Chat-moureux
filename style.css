@@ -1,0 +1,48 @@
+body
+{
+
+	background-image: url(https://i.postimg.cc/nzgZW5bJ/catt.png);
+	background-size: 100% 100%;
+  	background-position: center;
+  	background-repeat: no-repeat;
+
+ }
+
+ .container
+ {
+ 	border: solid;
+ 	padding: 20px;
+ 	box-shadow: 5px 5px 3px black;
+ 	border-radius: 45px;
+ }
+
+mark
+{
+	background-color: red;
+}
+
+mark2
+{
+	background-color: rgba(248, 255, 114, 1.0);
+}
+
+mark3
+{
+	background-color: rgba(151, 245, 246, 1);
+}
+ ul
+ {
+ 	list-style-type: lower-alpha;
+ }
+
+
+ section {
+ 	text-align: justify;
+ 	margin-right: 15px;
+ 	margin-left: 10px;
+ }
+
+.clearfix
+{
+	clear: both;
+}
